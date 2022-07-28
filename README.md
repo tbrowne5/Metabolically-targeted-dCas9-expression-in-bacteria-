@@ -1,4 +1,4 @@
-# Metabolically-targeted-dCas9-expression-in-bacteria-
+# Metabolically-targeted-dCas9-expression-in-bacteria
 
 Reads were downloaded from Illumina Basespace.  The reads in FASTQ format were trimmed using the program Trimmomatic with the following command:
 
