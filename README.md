@@ -2,7 +2,7 @@
 
 Reads were downloaded from Illumina Basespace.  The reads in FASTQ format were trimmed using the program Trimmomatic with the following command:
 
-trimmomatic SE -threads 10 -phred33 -summary ../trimsummaries/${name}-summary.txt ${i} ../trimout/trimmed-${name}.fastq.gz LEADING:10 TRAILING:10
+'trimmomatic SE -threads 10 -phred33 -summary ../trimsummaries/${name}-summary.txt ${i} ../trimout/trimmed-${name}.fastq.gz LEADING:10 TRAILING:10'
 
 This command generates trimmed output FASTQ files, and summary text files.
 
