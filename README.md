@@ -1,6 +1,6 @@
 # Metabolically-targeted-dCas9-expression-in-bacteria
 
-# Read Availability
+# Data Availability
 
 BioProject: PRJNA862923 https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA862923
 
