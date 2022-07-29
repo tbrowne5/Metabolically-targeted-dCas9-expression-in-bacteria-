@@ -1,5 +1,11 @@
 # Metabolically-targeted-dCas9-expression-in-bacteria
 
+# Read Availability
+
+BioProject: PRJNA862923 https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA862923
+
+# Methodology for read processing into counts tables
+
 Reads were downloaded from Illumina Basespace.  The reads in FASTQ format were trimmed using the program Trimmomatic with the following command:
 
 `trimmomatic SE -threads 10 -phred33 -summary ../trimsummaries/${name}-summary.txt ${i} ../trimout/trimmed-${name}.fastq.gz LEADING:10 TRAILING:10`
