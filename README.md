@@ -1,4 +1,4 @@
-# Metabolically-targeted-dCas9-expression-in-bacteria
+# [Metabolically-targeted-dCas9-expression-in-bacteria](https://academic.oup.com/nar/article/51/2/982/6984588)
 
 # Data Availability
 
