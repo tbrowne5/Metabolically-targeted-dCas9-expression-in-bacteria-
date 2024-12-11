@@ -1,5 +1,7 @@
 # [Metabolically-targeted-dCas9-expression-in-bacteria](https://academic.oup.com/nar/article/51/2/982/6984588)
 
+Gregory M Pellegrino, Tyler S Browne, et. al. (2023). Metabolically-targeted dCas9 expression in bacteria, *Nucleic Acids Research*, Volume 51, Issue 2, Pages 982–996.
+
 # Data Availability
 
 BioProject: PRJNA862923 https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA862923
